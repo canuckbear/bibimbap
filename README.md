@@ -1,2 +1,2 @@
-# !!!!!bibimbap
-Bunch of Inexpensive Boards In order to Mimi Brain activity Process 
+bimbap
+Bunch of Inexpensive Boards In order to Mimic Brain activity Process 

@@ -1,3 +1,3 @@
 Bibimbap
 
-Bunch of Inexpensive Boards In order to Mimic Brain activity Process 
+Bunch of Inexpensive Boards In order to Mimic Brain Activity Process 

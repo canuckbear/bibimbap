@@ -26,12 +26,12 @@ except ImportError:
     from distutils.core import setup
 
 config = {
-    'description': 'Multiple Use Linux Equipement',
-    'long_description': 'MULE is a tool designed to ease the use of LXC containers in its first vversion. Version two will also manage XEN VMs',
-    'Virtual hosts are described in YAM files taking care nott to duplicate lxc configuration'
+    'description': 'Bunch of Inexpensive Boards In order to Mimiic Brain AActivity Phenomena',
+    'long_description': 'bibimbal is an artificial intelligence tool used to modelize brain activity when it',
+    'comes to information storage retrieval and bas computation'
     'author': __author__,
-    'url': 'https://github.com/wbonnet/mule/',
-    'download_url': 'https://github.com/wbonnet/mule/',
+    'url': 'https://github.com/canuckbear/bibimbap/',
+    'download_url': 'https://github.com/canuckbrear/bibimbapmule/',
     'author_email': __author_email__,
     'version': __version__,
     'install_requires': [ 'pyyaml' ],
